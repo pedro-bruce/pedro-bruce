@@ -7,9 +7,9 @@
 </div>
 
 ### 👨‍💻 About me
-- 📖 I'm studying Computer Science at São Paulo State University
+- 📖 I have a degree in Computer Science from São Paulo State University (Unesp)
 - 🖱️ I've worked with front-end and back-end for web applications
-- 💡 I'm interested in Software Development and Computer Networks
+- 💡 I'm interested in Software Development and Cybersecurity
 - 🎮 In my free time, I like to play videogames and basketball
 
 ### 🛠️ Languages and Tools
